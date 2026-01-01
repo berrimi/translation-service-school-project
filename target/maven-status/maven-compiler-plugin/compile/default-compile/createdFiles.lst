@@ -1,0 +1,9 @@
+com/berrimi/translator/jakarta/hello/LLMClient.class
+com/berrimi/translator/jakarta/hello/TranslationResource.class
+com/berrimi/translator/jakarta/hello/Hello.class
+com/berrimi/translator/jakarta/hello/HelloApplication.class
+com/berrimi/translator/jakarta/hello/AuthResource.class
+com/berrimi/translator/jakarta/hello/CORSFilter.class
+com/berrimi/translator/jakarta/hello/HelloWorldResource.class
+com/berrimi/translator/jakarta/hello/UserRepository.class
+com/berrimi/translator/jakarta/hello/User.class
